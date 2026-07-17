@@ -1,6 +1,6 @@
-#HOWDY I'm Punnathon Taprasop
+# HOWDY I'm Punnathon Taprasop
 
-##ABOUT ME
+## ABOUT ME
 - Vocaloid enjoyer
 - Gamer
 - Fresh man IT KMITL Year 1 student
